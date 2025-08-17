@@ -28,3 +28,19 @@
 
 - Формирование отчёта с ключевыми результатами анализа.
 - Разработка предложений по снижению уровня загрязнения воздуха и защите населения от его воздействия.
+
+## Структура проекта:
+```
+├── notebooks
+│ ├── ML_part.ipynb
+│ ├── EDA_full.ipynb
+│ ├── parser_air_quality.ipynb
+│ ├── parser_cities_coordinates.ipynb
+│ └── parser_temp.ipynb
+│
+├── source
+│ ├── add_data_countries.xlsx
+│ └── cities_data.json
+├── README.md
+└── dataset_description.md
+```
